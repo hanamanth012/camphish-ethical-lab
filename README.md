@@ -9,15 +9,15 @@
 
 ## 🚀Features
 
-Generates phishing links
-Captures camera images (with user permission)
-Works on multiple devices (Android, PC, etc.)
-Uses tunneling services (like Ngrok/Cloudflare)
+- Generates phishing links
+- Captures camera images (with user permission)
+- Works on multiple devices (Android, PC, etc.)
+- Uses tunneling services (like Ngrok/Cloudflare)
 
 ## 🛠️Installation
-git clone https://github.com/yourusername/camphish.git
-cd camphish
-bash camphish.sh
+- git clone https://github.com/yourusername/camphish.git
+- cd camphish
+- bash camphish.sh
 
 ## 📂Project Structure
 ```
@@ -30,12 +30,12 @@ camphish/
 ```
 
 ## 🧠 How It Works
-Creates a fake webpage
-Sends link via social engineering
-Requests camera permission
-Captures image if user allows
+- Creates a fake webpage
+- Sends link via social engineering
+- Requests camera permission
+- Captures image if user allows
 
 ## 🔐 Security Awareness
-Why you should not click unknown links
-Risks of granting permissions blindly
-Importance of cybersecurity awareness
+- Why you should not click unknown links
+- Risks of granting permissions blindly
+- Importance of cybersecurity awareness
