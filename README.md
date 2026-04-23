@@ -1,11 +1,11 @@
 ## 📌project overview
 
-Educational cybersecurity tool for demonstrating social engineering attacks
-Simulates phishing scenarios to request camera access
-Shows risks of blindly granting permissions
-Helps in learning ethical hacking and penetration testing basics
-Promotes cybersecurity awareness and safe online behavior
-Intended for use in controlled and legal environments only
+-Educational cybersecurity tool for demonstrating social engineering attacks
+-Simulates phishing scenarios to request camera access
+-Shows risks of blindly granting permissions
+-Helps in learning ethical hacking and penetration testing basics
+-Promotes cybersecurity awareness and safe online behavior
+-Intended for use in controlled and legal environments only
 
 ## 🚀Features
 
