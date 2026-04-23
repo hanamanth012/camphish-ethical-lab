@@ -20,14 +20,14 @@ cd camphish
 bash camphish.sh
 
 ## 📂Project Structure
-'''
+```
 camphish/
 ├── camphish.sh        # Main script
 ├── sites/             # Phishing page templates
 ├── templates/         # UI/HTML files
 └── README.md          # Project documentation
 
-'''
+```
 
 ## 🧠 How It Works
 Creates a fake webpage
