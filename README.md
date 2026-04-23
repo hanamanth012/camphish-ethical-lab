@@ -20,11 +20,14 @@ cd camphish
 bash camphish.sh
 
 ## 📂Project Structure
+'''
 camphish/
 │── camphish.sh
 │── sites/
 │── templates/
 │── README.md
+
+'''
 
 ## 🧠 How It Works
 Creates a fake webpage
